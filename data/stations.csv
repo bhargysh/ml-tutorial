@@ -1,0 +1,326 @@
+station_id,station_name,station_type,stop_mode,latitude,longitude
+0,North Shore,,V/Line Train,-38.098373,144.365323
+1,Pyramid,,V/Line Train,-36.053113,144.11313
+2,Riddells Creek,,V/Line Train,-37.465127,144.679828
+3,Rochester,,V/Line Train,-36.362363,144.69868300000005
+4,Rosedale,,V/Line Train,-38.15640300000001,146.78696499999995
+5,Sale,,V/Line Train,-38.103105,147.054802
+6,Seymour,,V/Line Train,-37.024725,145.137733
+7,Shepparton,,V/Line Train,-36.383795,145.4065
+8,South Geelong,,V/Line Train,-38.15866,144.358987
+9,Springhurst,,V/Line Train,-36.185894,146.470421
+10,Stratford,,V/Line Train,-37.967047,147.081468
+11,Swan Hill,,V/Line Train,-35.341113,143.562347
+12,Tallarook,,V/Line Train,-37.092332,145.103002
+13,Terang,,V/Line Train,-38.236215,142.911467
+14,Trafalgar,,V/Line Train,-38.207239,146.15476999999996
+15,Traralgon,,V/Line Train,-38.198889,146.53788400000005
+16,Tynong,,V/Line Train,-38.084994,145.628231
+17,Violet Town,,V/Line Train,-36.638817,145.715926
+18,Wandong,,V/Line Train,-37.354676,145.026414
+19,Wangaratta,,V/Line Train,-36.355102,146.317041
+20,Warragul,,V/Line Train,-38.165227,145.93309
+21,Warrnambool,,V/Line Train,-38.385015,142.475547
+22,Winchelsea,,V/Line Train,-38.240133,143.984137
+23,Wodonga,,V/Line Train,-36.105829,146.871267
+24,Woodend,,V/Line Train,-37.358803,144.525893
+25,Yarragon,,V/Line Train,-38.203155,146.063065
+26,Southern Cross,Premium,Train,-37.817933,144.951409
+27,Flinders Street,,V/Line Train,-37.818309,144.96696799999995
+28,North Melbourne,,V/Line Train,-37.80630900000001,144.94151000000005
+29,Footscray,,V/Line Train,-37.80141,144.902023
+30,Sunshine,,V/Line Train,-37.788537,144.832881
+31,Ginifer,,V/Line Train,-37.757995,144.810068
+32,St Albans,,V/Line Train,-37.74486,144.80005
+33,Watergardens,,V/Line Train,-37.701128,144.774186
+34,Richmond,,V/Line Train,-37.8240699999999,144.99016
+35,Caulfield,,V/Line Train,-37.87746,145.04252
+36,Clayton,,V/Line Train,-37.924683,145.120531
+37,Dandenong,,V/Line Train,-37.989968,145.209728
+38,Berwick,,V/Line Train,-38.04041,145.34572
+39,Pakenham,,V/Line Train,-38.08061,145.48637
+40,Essendon,,V/Line Train,-37.75601,144.9162
+41,Broadmeadows,,V/Line Train,-37.68305,144.91961
+42,Sherwood Park,,V/Line Train,-38.38639000000001,142.54056
+43,Roxburgh Park,Unmanned,Train,-37.638233,144.935407
+44,Craigieburn,Premium,Train,-37.601813,144.943325
+45,Wendouree,,V/Line Train,-37.540081,143.822055
+46,Coolaroo,Unmanned,Train,-37.661001,144.926053
+47,Creswick,,V/Line Train,-37.424605,143.888122
+48,Clunes,,V/Line Train,-37.303143,143.781574
+49,Maryborough,,V/Line Train,-37.050912,143.742399
+50,Lynbrook,Unmanned,Train,-38.057345,145.24928
+51,Cardinia Road,Unmanned,Train,-38.071288,145.437794
+52,South Morang,Premium,Train,-37.649161,145.067038
+53,Williams Landing,Premium,Train,-37.869868,144.747446
+54,Talbot,,V/Line Train,-37.172902,143.705635
+55,Waurn Ponds,,V/Line Train,-38.21581,144.30682
+56,Epsom,,V/Line Train,-36.706343,144.32103600000005
+57,Wyndham Vale,,V/Line Train,-37.871783,144.608477
+58,Tarneit,,V/Line Train,-37.832169,144.694716
+59,Sunbury,Premium,Train,-37.579092,144.72732
+60,Diggers Rest,,Train,-37.627013,144.719918
+61,Wallan,,V/Line Train,-37.41686,145.005377
+62,Stony Point,Unmanned,Train,-38.374238,145.22184199999995
+63,Crib Point,Unmanned,Train,-38.36612,145.204047
+64,Morradoo,Unmanned,Train,-38.354035,145.189606
+65,Bittern,Unmanned,Train,-38.33739,145.178026
+66,Hastings,Unmanned,Train,-38.30566,145.185979
+67,Tyabb,Unmanned,Train,-38.259817,145.18640200000004
+68,Somerville,Unmanned,Train,-38.225341,145.176246
+69,Baxter,Unmanned,Train,-38.194047,145.160525
+70,Glen Iris,Unmanned,Train,-37.859306,145.058223
+71,Leawarra,Unmanned,Train,-38.152036,145.13953500000005
+72,Darling,Premium,Train,-37.868956,145.06294599999995
+73,East Malvern,Premium,Train,-37.87693,145.069397
+74,Holmesglen,Host,Train,-37.874401,145.090657
+75,Jordanville,Unmanned,Train,-37.873599,145.112089
+76,Flagstaff,Premium,Train,-37.811978,144.955653
+77,Melbourne Central,Premium,Train,-37.809936,144.962599
+78,Parliament,Premium,Train,-37.811055,144.97290700000005
+79,Belgrave,Premium,Train,-37.909099,145.355291
+80,Tecoma,Unmanned,Train,-37.908116,145.342999
+81,Upwey,Unmanned,Train,-37.903692,145.331335
+82,Alamein,Unmanned,Train,-37.868317,145.07965900000005
+83,Ashburton,Premium,Train,-37.861968,145.08134099999995
+84,Burwood,Host,Train,-37.851561,145.080508
+85,Hartwell,Unmanned,Train,-37.843984000000006,145.07556100000005
+86,Willison,Unmanned,Train,-37.835712,145.070298
+87,Riversdale,Unmanned,Train,-37.831502,145.069648
+88,Camberwell,Premium,Train,-37.82656400000001,145.05869199999995
+89,Flinders Street,Premium,Train,-37.818308,144.96696699999995
+90,Frankston,Premium,Train,-38.142987,145.12616599999996
+91,Kananook,Unmanned,Train,-38.12174,145.135291
+92,Seaford,Unmanned,Train,-38.104017,145.128228
+93,Carrum,Premium,Train,-38.074896,145.122414
+94,Bonbeach,Unmanned,Train,-38.062945,145.119682
+95,Chelsea,Unmanned,Train,-38.0519589999999,145.116036
+96,Edithvale,Unmanned,Train,-38.038054,145.10853899999995
+97,Aspendale,Unmanned,Train,-38.027222,145.102151
+98,Mordialloc,Premium,Train,-38.006587,145.087656
+99,Parkdale,Unmanned,Train,-37.993077,145.07633
+100,Mentone,Premium,Train,-37.981865,145.065171
+101,Cheltenham,Premium,Train,-37.966653,145.05455700000005
+102,Upper Ferntree Gully,Premium,Train,-37.892673,145.307525
+103,Ferntree Gully,Premium,Train,-37.881697,145.295254
+104,Boronia,Premium,Train,-37.860453,145.284381
+105,Bayswater,Premium,Train,-37.841728,145.26813700000002
+106,Heathmont,Unmanned,Train,-37.828318,145.244553
+107,Highett,Unmanned,Train,-37.948426,145.04187199999996
+108,Glen Waverley,Premium,Train,-37.879502,145.162063
+109,Syndal,Host,Train,-37.87622800000001,145.149776
+110,Mount Waverley,Premium,Train,-37.875251,145.128057
+111,Lilydale,Premium,Train,-37.755516,145.347712
+112,Mooroolbark,Premium,Train,-37.784749,145.31240400000004
+113,Croydon,Premium,Train,-37.795441,145.280594
+114,Ringwood East,Unmanned,Train,-37.811968,145.250193
+115,Pakenham,Premium,Train,-38.080612,145.486374
+116,Officer,Unmanned,Train,-38.066142,145.410992
+117,Beaconsfield,Unmanned,Train,-38.050828,145.36606899999995
+118,Berwick,Premium,Train,-38.04041,145.345721
+119,Narre Warren,Premium,Train,-38.02780900000001,145.303967
+120,Hallam,Unmanned,Train,-38.017743,145.269773
+121,Cranbourne,Premium,Train,-38.09954000000001,145.280595
+122,Merinda Park,Unmanned,Train,-38.079003,145.263507
+123,Dandenong,Premium,Train,-37.989968,145.209728
+124,Yarraman,Unmanned,Train,-37.978253,145.191597
+125,Noble Park,Premium,Train,-37.967236,145.176936
+126,Sandown Park,Host,Train,-37.956501,145.162823
+127,East Camberwell,Unmanned,Train,-37.8258919999999,145.068189
+128,Canterbury,Host,Train,-37.824489,145.08122600000004
+129,Chatham,Unmanned,Train,-37.824304,145.088653
+130,Surrey Hills,Premium,Train,-37.824144,145.098778
+131,Mont Albert,Unmanned,Train,-37.81942700000001,145.105533
+132,Laburnum,Unmanned,Train,-37.820777,145.140705
+133,Blackburn,Premium,Train,-37.820069,145.150014
+134,Nunawading,Premium,Train,-37.820599,145.17489
+135,Mitcham,Premium,Train,-37.8180129999999,145.191973
+136,Heatherdale,Host,Train,-37.818896,145.212785
+137,Ringwood,Premium,Train,-37.81589,145.22897
+138,Auburn,Host,Train,-37.822398,145.045842
+139,Glenferrie,Premium,Train,-37.821466,145.03643799999998
+140,Hawthorn,Host,Train,-37.821824,145.022897
+141,Burnley,Premium,Train,-37.827558,145.007553
+142,East Richmond,Unmanned,Train,-37.826403000000006,144.99706799999996
+143,Richmond,Premium,Train,-37.824072,144.990161
+144,Heyington,Unmanned,Train,-37.83467,145.022633
+145,Kooyong,Unmanned,Train,-37.839926,145.03355
+146,Tooronga,Host,Train,-37.84937,145.04173400000005
+147,Gardiner,Host,Train,-37.85328300000001,145.05166
+148,Springvale,Premium,Train,-37.949512,145.153451
+149,Westall,Premium,Train,-37.938492,145.138834
+150,Clayton,Premium,Train,-37.924683,145.120531
+151,Huntingdale,Host,Train,-37.911017,145.102364
+152,Oakleigh,Premium,Train,-37.900368,145.088313
+153,Hughesdale,Host,Train,-37.894877,145.07763899999995
+154,Murrumbeena,Host,Train,-37.890196,145.067378
+155,Carnegie,Host,Train,-37.886237,145.058576
+156,Werribee,Premium,Train,-37.899382,144.661116
+157,Hoppers Crossing,Host,Train,-37.883279,144.70096
+158,Laverton,Premium,Train,-37.863693,144.772615
+159,Aircraft,Unmanned,Train,-37.866602,144.760809
+160,Westona,Unmanned,Train,-37.86516500000001,144.81348899999998
+161,Altona,Unmanned,Train,-37.867151,144.829647
+162,Seaholme,Unmanned,Train,-37.867843,144.840957
+163,Westgarth,Unmanned,Train,-37.780618,144.999231
+164,Dennis,Unmanned,Train,-37.779183,145.00824
+165,Fairfield,Host,Train,-37.779174,145.016903
+166,Alphington,Unmanned,Train,-37.778396,145.031251
+167,Darebin,Unmanned,Train,-37.774962,145.038476
+168,Ivanhoe,Premium,Train,-37.768898,145.045426
+169,Eaglemont,Unmanned,Train,-37.763586,145.053946
+170,Heidelberg,Premium,Train,-37.757075,145.06069
+171,Rosanna,Unmanned,Train,-37.742875,145.06614
+172,Moorabbin,Premium,Train,-37.934349,145.03673899999995
+173,Patterson,Unmanned,Train,-37.92514600000001,145.03546799999995
+174,Bentleigh,Premium,Train,-37.917427,145.036991
+175,McKinnon,Host,Train,-37.910306,145.03830200000004
+176,Ormond,Host,Train,-37.903211,145.03960800000004
+177,Glenhuntly,Host,Train,-37.889717,145.042218
+178,Caulfield,Premium,Train,-37.877457,145.042522
+179,Malvern,Host,Train,-37.86625,145.029293
+180,Armadale,Host,Train,-37.856452,145.019328
+181,Toorak,Host,Train,-37.85077,145.01390700000005
+182,Hawksburn,Host,Train,-37.844594,145.002137
+183,Sandringham,Premium,Train,-37.950328000000006,145.00456599999995
+184,Hampton,Unmanned,Train,-37.937973,145.001466
+185,Brighton Beach,Premium,Train,-37.926482,144.989157
+186,Middle Brighton,Host,Train,-37.915135,144.996298
+187,North Brighton,Host,Train,-37.904883,145.002604
+188,Gardenvale,Unmanned,Train,-37.896693,145.004165
+189,Elsternwick,Premium,Train,-37.884752,145.000902
+190,Ripponlea,Host,Train,-37.875908,144.995234
+191,Balaclava,Premium,Train,-37.869486,144.99351399999995
+192,Windsor,Host,Train,-37.856051,144.99203300000005
+193,Prahran,Host,Train,-37.849516,144.98986000000005
+194,South Yarra,Premium,Train,-37.838445,144.99234099999995
+195,Upfield,Premium,Train,-37.666076,144.946745
+196,Gowrie,Premium,Train,-37.700676,144.958877
+197,Fawkner,Unmanned,Train,-37.714622,144.960549
+198,Merlynston,Host,Train,-37.720937,144.96131200000005
+199,Batman,Unmanned,Train,-37.733524,144.962837
+200,Coburg,Premium,Train,-37.742341,144.96334199999995
+201,Moreland,Unmanned,Train,-37.754481,144.961823
+202,Anstey,Unmanned,Train,-37.761239,144.960686
+203,Brunswick,Unmanned,Train,-37.767718,144.959591
+204,Jewell,Unmanned,Train,-37.774984,144.95871499999996
+205,Royal Park,Unmanned,Train,-37.781192,144.952299
+206,Flemington Bridge,Unmanned,Train,-37.7881369999999,144.939321
+207,Macaulay,Unmanned,Train,-37.794263,144.93617
+208,North Melbourne,Premium,Train,-37.80630900000001,144.941509
+209,Clifton Hill,Premium,Train,-37.788654,144.995417
+210,Victoria Park,Unmanned,Train,-37.799155,144.994447
+211,Collingwood,Unmanned,Train,-37.804523,144.993745
+212,North Richmond,Unmanned,Train,-37.810396,144.9925
+213,West Richmond,Unmanned,Train,-37.814945,144.99141799999995
+214,Jolimont-MCG,Host,Train,-37.81653,144.984096
+215,Melton,,V/Line Train,-37.703289,144.572525
+216,Rockbank,,V/Line Train,-37.729258,144.65063
+217,Deer Park,,V/Line Train,-37.77776,144.772307
+218,Macleod,Premium,Train,-37.72601,145.069147
+219,Watsonia,Premium,Train,-37.710954,145.083795
+220,Greensborough,Premium,Train,-37.70395,145.108249
+221,Montmorency,Unmanned,Train,-37.715297,145.121511
+222,Eltham,Premium,Train,-37.713552,145.147827
+223,Diamond Creek,Unmanned,Train,-37.673293,145.158509
+224,Wattle Glen,Unmanned,Train,-37.663966,145.18161899999996
+225,Hurstbridge,Host,Train,-37.639402,145.192012
+226,Williamstown,Premium,Train,-37.867754,144.905324
+227,Williamstown Beach,Unmanned,Train,-37.863982,144.894487
+228,North Williamstown,Unmanned,Train,-37.85733,144.88906699999995
+229,Newport,Premium,Train,-37.842714,144.883604
+230,Spotswood,Host,Train,-37.830635,144.88593500000005
+231,Yarraville,Host,Train,-37.815849,144.889934
+232,Seddon,Unmanned,Train,-37.809001,144.895668
+233,Sunbury,,V/Line Train,-37.579203,144.72816699999996
+234,Diggers Rest,,V/Line Train,-37.627013,144.719918
+235,Watergardens,Premium,Train,-37.701128,144.774186
+236,Keilor Plains,Unmanned,Train,-37.729276,144.793733
+237,St Albans,Premium,Train,-37.74485900000001,144.800055
+238,Ginifer,Unmanned,Train,-37.75750900000001,144.809571
+239,Albion,Host,Train,-37.777655,144.824709
+240,Epping,Premium,Train,-37.652388,145.030118
+241,Lalor,Unmanned,Train,-37.66585300000001,145.017195
+242,Thomastown,Premium,Train,-37.680335,145.014284
+243,Keon Park,Unmanned,Train,-37.694867,145.011883
+244,Ruthven,Unmanned,Train,-37.707899,145.009514
+245,Reservoir,Premium,Train,-37.716889,145.006993
+246,Regent,Host,Train,-37.7284,145.002771
+247,Preston,Premium,Train,-37.738674,145.000527
+248,Bell,Premium,Train,-37.745566,145.000152
+249,Thornbury,Unmanned,Train,-37.755048,144.998576
+250,Croxton,Unmanned,Train,-37.764098,144.997057
+251,Northcote,Unmanned,Train,-37.769865,144.995282
+252,Merri,Unmanned,Train,-37.777843,144.992976
+253,Rushall,Unmanned,Train,-37.783217,144.992403
+254,Ardeer,,V/Line Train,-37.783063,144.802193
+255,Sunshine,Premium,Train,-37.788535,144.83288000000005
+256,Tottenham,Host,Train,-37.799255,144.862948
+257,West Footscray,Unmanned,Train,-37.801812,144.885327
+258,Middle Footscray,Unmanned,Train,-37.8025009999999,144.891474
+259,Footscray,Premium,Train,-37.801085,144.90319399999996
+260,South Kensington,Unmanned,Train,-37.799533,144.925469
+261,Flemington Racecourse,Unmanned,Train,-37.787199,144.907592
+262,Showgrounds,Unmanned,Train,-37.783475,144.91425800000005
+263,Craigieburn,,V/Line Train,-37.601925,144.943309
+264,Broadmeadows,Premium,Train,-37.683051,144.919615
+265,Jacana,Unmanned,Train,-37.695133,144.915855
+266,Glenroy,Premium,Train,-37.704534,144.917219
+267,Oak Park,Unmanned,Train,-37.717949,144.921515
+268,Pascoe Vale,Unmanned,Train,-37.730754,144.928194
+269,Strathmore,Unmanned,Train,-37.743593,144.92732
+270,Glenbervie,Unmanned,Train,-37.747214,144.920944
+271,Essendon,Premium,Train,-37.756008,144.916198
+272,Moonee Ponds,Host,Train,-37.765704,144.919158
+273,Ascot Vale,Unmanned,Train,-37.77531,144.921825
+274,Newmarket,Unmanned,Train,-37.787326,144.928984
+275,Kensington,Host,Train,-37.793777,144.930525
+276,Box Hill,Premium,Train,-37.819219,145.121427
+277,Southern Cross,Premium,V/Line Train,-37.818333,144.952524
+278,Albury,,V/Line Train,-36.084263,146.924518
+279,Ararat,,V/Line Train,-37.28220200000001,142.936912
+280,Avenel,,V/Line Train,-36.893644,145.229517
+281,Bacchus Marsh,,V/Line Train,-37.687582,144.43678799999995
+282,Bairnsdale,,V/Line Train,-37.828717,147.627615
+283,Ballan,,V/Line Train,-37.6043,144.22544299999996
+284,Ballarat,,V/Line Train,-37.55879,143.859452
+285,Beaufort,,V/Line Train,-37.427875,143.382233
+286,Benalla,,V/Line Train,-36.544549,145.983914
+287,Bendigo,,V/Line Train,-36.765673,144.283012
+288,Birregurra,,V/Line Train,-38.328807,143.78361999999996
+289,Broadford,,V/Line Train,-37.207202,145.043009
+290,Bunyip,,V/Line Train,-38.09911,145.720762
+291,Camperdown,,V/Line Train,-38.2289,143.150932
+292,Castlemaine,,V/Line Train,-37.062836,144.213801
+293,Chiltern,,V/Line Train,-36.155634,146.61138
+294,Clarkefield,,V/Line Train,-37.483497,144.74536799999996
+295,Colac,,V/Line Train,-38.343378,143.586658
+296,Corio,,V/Line Train,-38.072835,144.37977
+297,Dingee,,V/Line Train,-36.369235,144.23112
+298,Donnybrook,,V/Line Train,-37.542592,144.969865
+299,Drouin,,V/Line Train,-38.136453,145.855943
+300,Eaglehawk,,V/Line Train,-36.718528000000006,144.248382
+301,Echuca,,V/Line Train,-36.130985,144.75346299999995
+302,Elmore,,V/Line Train,-36.495017,144.607753
+303,Euroa,,V/Line Train,-36.749145,145.56786499999995
+304,Garfield,,V/Line Train,-38.09103,145.67422
+305,Geelong,,V/Line Train,-38.144241,144.35499199999995
+306,Gisborne,,V/Line Train,-37.458825,144.598718
+307,Heathcote Junction,,V/Line Train,-37.367732,145.026305
+308,Kangaroo Flat,,V/Line Train,-36.794838,144.24899299999996
+309,Kerang,,V/Line Train,-35.733123,143.92443
+310,Kilmore East,,V/Line Train,-37.293208,144.983565
+311,Kyneton,,V/Line Train,-37.258277,144.450602
+312,Lara,,V/Line Train,-38.02242800000001,144.414402
+313,Little River,,V/Line Train,-37.96292800000001,144.49848500000004
+314,Longwarry,,V/Line Train,-38.112838,145.77109099999996
+315,Macedon,,V/Line Train,-37.423577,144.561397
+316,Malmsbury,,V/Line Train,-37.189744,144.375325
+317,Marshall,,V/Line Train,-38.19855,144.355055
+318,Moe,,V/Line Train,-38.176713,146.262698
+319,Mooroopna,,V/Line Train,-36.399127,145.358217
+320,Morwell,,V/Line Train,-38.236723,146.396752
+321,Murchison East,,V/Line Train,-36.61315,145.24063999999996
+322,Nagambie,,V/Line Train,-36.78546,145.160358
+323,Nar Nar Goon,,V/Line Train,-38.08159000000001,145.57166999999995
+324,North Geelong,,V/Line Train,-38.122836,144.35227700000004
